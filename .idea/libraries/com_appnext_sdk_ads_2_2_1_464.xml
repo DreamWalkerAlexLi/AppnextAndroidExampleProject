@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.appnext.sdk:ads-2.2.1.464">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ads-2.2.1.464.aar/e515b080cb5ee622d6321faddb2607de/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ads-2.2.1.464.aar/e515b080cb5ee622d6321faddb2607de/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
